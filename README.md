@@ -12,8 +12,6 @@ This work is licensed under a
 
 
 # Dog Poop Detector
-This repo contains the code for the project as seen here: https://www.youtube.com/watch?v=uWZu3rnj-kQ
+Lightly modified from the code used for this project: https://www.youtube.com/watch?v=uWZu3rnj-kQ
 
-To use the model I trained on my dog, extract it from the tarball in `/exported-models` and point to it in `live.py`
-
-TODO: Fill rest of this out
+My dog kept pooping in an unseen part of my house, so to keep her from doing that, I made this little robot to yell at her for me. 
